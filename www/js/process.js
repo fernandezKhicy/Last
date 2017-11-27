@@ -152,7 +152,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/12.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Joshua is a dog. He loves barking everywhere when there’s a chicks.  </p> </center>
+						<p> Bernavie is a monkey. He always climbs at high trees although he has a fear of height.  </p> </center>
 					</div>
 				</div>
 			</div>
@@ -166,7 +166,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/13.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Bernavie is a monkey. He always climbs at high trees although he has a fear of height.  </p> </center>
+						<p> Joshua is a dog. He loves barking everywhere when there’s a chicks.   </p> </center>
 					</div>
 				</div>
 			</div>
@@ -236,7 +236,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/18.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Michael is adik, crazy but a lover to Angelika. Her eyes wink wink when there are chicks around him but her heart belongs only to Angel.</p> </center>
+						<p> Michael is adik, crazy but a lover to Angelika. His eyes wink wink when there are chicks around him but her heart belongs only to Angel.</p> </center>
 					</div>
 				</div>
 			</div>
