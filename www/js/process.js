@@ -222,7 +222,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/17.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Mary Grace serves as may human diary. We always share some crazy topics and also secrets.  </p> </center>
+						<p> Mary Grace serves as my human diary. We always share some crazy topics and also secrets.  </p> </center>
 					</div>
 				</div>
 			</div>
@@ -404,7 +404,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/30.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Ate Joy is loves travelling and she finally found someone whom truly and deeply love her. </p> </center>
+						<p> Ate Joy loves travelling and she finally found someone whom truly and deeply love her. </p> </center>
 					</div>
 				</div>
 			</div>
@@ -600,7 +600,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/44.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Hanah is my most intelligent girl friend. Even Sir Romulo believe with his knowledge.  </p> </center>
+						<p> Hanah is my most intelligent girl friend. Even Sir Romulo believe with her knowledge.  </p> </center>
 					</div>
 				</div>
 			</div>
@@ -628,7 +628,7 @@ var dom =
 					<div class="content-block-inner">
 						<center>
 						<p> <img src="img/46.jpg" width="50%" height="50%" class="lazy lazy-fadeIn"></img></p>
-						<p> Mariel is my rich fried. She wants to go to Japan after her graduated. She loves travelling and taking selfies.  </p> </center>
+						<p> Mariel is my rich friend. She wants to go to Japan after she graduated. She loves travelling and taking selfies.  </p> </center>
 					</div>
 				</div>
 			</div>
